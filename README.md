@@ -1,3 +1,5 @@
+<img src="https://github.com/RelativisticMechanic/FabricSimlulation/blob/main/working.gif" alt="drawing" width="300"/>
+
 # Fabric Simlulation
 
 This is a C++ program that can simulate a piece of fabric kept on a flat surface. Fabric simlulation finds a lot of application in games where characters or objects have a piece of cloth on them that needs to look real, as well as be able to respond to player input. 
@@ -28,6 +30,6 @@ After you've click run on VS 2022, try pulling on one of the particles using you
 
 ## Credits
 
-I've used Javidx9's olc::PixelGameEngine as way to render output. It makes the code portable, as the dependencies are none, and its a header only library and handles system-specific details on its own.
+I've used Javidx9's ```olc::PixelGameEngine``` as way to render output. It makes the code portable, as the dependencies are none, and its a header only library and handles system-specific details on its own.
 
 S, Gautam.
