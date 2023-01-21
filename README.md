@@ -1,4 +1,4 @@
-<img src="https://github.com/RelativisticMechanic/FabricSimlulation/blob/main/working.gif" alt="drawing" width="300"/>
+<img src="https://github.com/RelativisticMechanic/FabricSimlulation/blob/main/working.gif" alt="Working of the program" width="300"/>
 
 # Fabric Simlulation
 
