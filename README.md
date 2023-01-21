@@ -22,6 +22,10 @@ I use the Euler Solver, which is not _very_ good, but it works for smaller $k$. 
 
 The project is tested with Visual Studio 2022. Simply open up the solution and click Run. It should work. You could also compile it with g++, I'll supply a Makefile when I get some time. 
 
+## Running
+
+After you've click run on VS 2022, try pulling on one of the particles using your mouse by clicking on one particle and dragging it. The top and left sides are fixed every other particle can be pulled. 
+
 ## Credits
 
 I've used Javidx9's olc::PixelGameEngine as way to render output. It makes the code portable, as the dependencies are none, and its a header only library and handles system-specific details on its own.
