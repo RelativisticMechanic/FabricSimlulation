@@ -29,3 +29,5 @@ After you've click run on VS 2022, try pulling on one of the particles using you
 ## Credits
 
 I've used Javidx9's olc::PixelGameEngine as way to render output. It makes the code portable, as the dependencies are none, and its a header only library and handles system-specific details on its own.
+
+S, Gautam.
